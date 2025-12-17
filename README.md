@@ -8,7 +8,7 @@ Soy diseñador gráfico especializado en UX/UI y front-end developer. Me apasion
 - Domino herramientas como Figma, React y CSS, combinando creatividad y precisión técnica.
 
 ## Descubre mi trabajo
-🌐 [mnvrl.design](https://mnvrl.dev/)  
+🌐 [mnvrl.dev](https://mnvrl.dev/)  
 💼 [linkedin.com/in/mnvrl](https://www.linkedin.com/in/mnvrl/)
 
 ## Un poco sobre mí
